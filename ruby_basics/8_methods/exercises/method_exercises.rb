@@ -7,7 +7,7 @@
 # return value: the number's ASCII character (https://www.ascii-code.com/)
 # hint: use Integer#chr
 def ascii_translator(number)
-  puts number.chr
+  number.chr
 end
 
 # method name: #common_sports
